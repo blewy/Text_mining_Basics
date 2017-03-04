@@ -13,7 +13,7 @@ Also some issues using rWeka can arise when instaling the packages, to solve thi
     install.packages("rJava",type='source')
     install.packages("RWeka")
     
-I used Rweka to produce Brigrams, did went further that that (size problems of course), You have a alternative function to obtain brigrams.
+I used Rweka to produce Brigrams, didnt went further than that (size problems of course), You have a alternative function to obtain brigrams.
 
 You can find this competittion here https://www.kaggle.com/c/whats-cooking.
 
