@@ -4,9 +4,12 @@ and on the paper "Text Mining Infrastructure in R", that you can find on the doc
 
 I tried allot of models and aproaches, but I allways had problems with the data size, I only have a laptop and a not very powerfull one, but It was fun.
 
-Also some issues isinh rWeka can arise when instaling the packages, to solve this, commnd line and write:
+Also some issues using rWeka can arise when instaling the packages, to solve this, go to commnd line and write:
+
     - sudo R CMD javareconf
- Then do to R/Rstudio and do:
+    
+ Then do to R/Rstudio and run:
+ 
     install.packages("rJava",type='source')
     install.packages("RWeka")
     
